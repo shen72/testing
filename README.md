@@ -1,6 +1,6 @@
-* Testing Project
+# Testing Project
 
-** Section 1
+## Section 1
 
 Just some random testing.
 
